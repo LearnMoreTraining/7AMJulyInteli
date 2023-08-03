@@ -1,8 +1,5 @@
 Feature:  user validates the amazon search functionality
 
-  Background:
-    Given user search the product "iphone" and navigate to search result page
-
   @TSC001 @RegressionTest
   Scenario: Validate the search functionality with specific keywords
     Given user navigates to "https://www.amazon.in/"
