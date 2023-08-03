@@ -7,7 +7,7 @@ Feature: As a user validates the login Functionality of salesforce application
     Given  user navigates to sales force application
    #afterstep
      #beforestep
-    When user enter the user name "learnmore" and password "abc"
+    When user enter the user name "xyz" and password "abc"
    #afterstep
      #beforestep
     And user clicks on login button
